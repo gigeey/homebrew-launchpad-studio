@@ -1,6 +1,6 @@
 cask "launchpad-studio" do
-  version "0.11.0"
-  sha256 "307d78eed8fc71006f834ba19561868a13b7464c15a23051799cb52159bc6539"
+  version "0.11.1"
+  sha256 "fefa108ffacd0c82dd0dfa35cb58e40d3d1e49dbe062b152b7b83a59e71fb977"
 
   url "https://github.com/gigeey/launchpad-studio-releases/releases/download/v#{version}/Launchpad_Studio_universal.dmg"
   name "Launchpad Studio"
